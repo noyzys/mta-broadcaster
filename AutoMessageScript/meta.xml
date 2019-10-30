@@ -1,0 +1,4 @@
+<meta>
+	<info author="NoyZyS" type="script" name="AutoMessageScript" version="1.0" />
+	<script src="server.lua" type="server" cache="false" />
+</meta>
