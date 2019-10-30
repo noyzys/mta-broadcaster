@@ -15,5 +15,11 @@ Script is build of the following dependencies:
 * [Wiki MTA:SA](https://wiki.multitheftauto.com/wiki/Client_Scripting_Functions)
 ***
 
+### Screenshot
+
+<p align="center">
+  <img width="393" height="350" src="present.png">
+</p>
+
 ### 
 Thank you for your attention 
